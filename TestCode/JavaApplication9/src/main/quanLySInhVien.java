@@ -13,4 +13,8 @@ public class quanLySInhVien {
         x[0] = new Students("thuan", 54, 10);
         ((Students)x[0]).showProfiles();
     } 
+
+    public static void run() {
+        System.out.printf("OFF");
+    }
 }
