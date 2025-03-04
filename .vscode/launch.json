@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "quanLySInhVien",
+            "request": "launch",
+            "mainClass": "main.quanLySInhVien",
+            "projectName": "Java_2dc70174"
+        },
+        {
+            "type": "java",
+            "name": "AmazingRaceV2",
+            "request": "launch",
+            "mainClass": "amazingracev2.AmazingRaceV2",
+            "projectName": "Java_2dc70174"
+        },
+        {
+            "type": "java",
+            "name": "AmazingRace",
+            "request": "launch",
+            "mainClass": "amazingrace.AmazingRace",
+            "projectName": "Java_2dc70174"
+        },
+        {
+            "type": "java",
+            "name": "bai1",
+            "request": "launch",
+            "mainClass": "bai1",
+            "projectName": "Java_2dc70174"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "Java_2dc70174"
+        }
+    ]
+}
